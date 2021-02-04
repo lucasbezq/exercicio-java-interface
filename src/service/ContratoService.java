@@ -3,8 +3,8 @@ package service;
 import java.util.Calendar;
 import java.util.Date;
 
-import model.entity.Contrato;
-import model.entity.Prestacao;
+import entity.Contrato;
+import entity.Prestacao;
 
 public class ContratoService {
 

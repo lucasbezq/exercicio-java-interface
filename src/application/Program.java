@@ -6,8 +6,8 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 
-import model.entity.Contrato;
-import model.entity.Prestacao;
+import entity.Contrato;
+import entity.Prestacao;
 import service.ContratoService;
 import service.PaypalService;
 
